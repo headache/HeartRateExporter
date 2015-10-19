@@ -8,6 +8,7 @@ It accesses HealthKit (where the Apple Watch or other Hear Rate devices stores i
 
 CSV line example: 
 "Source,Time,Date,Heartrate(BPM)
+
 Apple Watch Pavel",14:05:06,10/19/2015,97.0"
 
 ## License ##
