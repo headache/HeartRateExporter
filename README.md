@@ -1,6 +1,6 @@
 # HealthKit Heart Rate Exporter (modified) #
 
-basen on application 'HealthKit Heart Rate Exporter' developed by Brad Larson https://github.com/BradLarson/HealthKitHeartRateExporter
+based on application 'HealthKit Heart Rate Exporter' developed by Brad Larson https://github.com/BradLarson/HealthKitHeartRateExporter
 
 ## Overview ##
 
